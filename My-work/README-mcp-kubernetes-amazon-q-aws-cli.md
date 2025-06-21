@@ -5,7 +5,7 @@ This guide walks you through using the Kubernetes MCP server with the Amazon Q C
 ---
 
 ## 📚 Resources
-- **Youtube vide:** https://www.youtube.com/watch?v=vO9Nd_q-Y0A&t=563s
+- **Youtube vide:** https://youtu.be/vO9Nd_q-Y0A?si=_toOQTjueyJXdvfE
 - **Amazon Q CLI Blog/Guide:** [Introducing the Enhanced CLI in Amazon Q Developer](https://aws.amazon.com/blogs/devops/introducing-the-enhanced-command-line-interface-in-amazon-q-developer/)
 - **Amazon Q CLI Installation (macOS):** [Official Docs](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html)
 
